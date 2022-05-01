@@ -1,2 +1,3 @@
 # project1
-There's nothing to see here
+
+Implemented custom game and then trained a Deep Q-learning agent. 
